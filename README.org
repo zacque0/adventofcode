@@ -2,11 +2,11 @@
 #+AUTHOR: Lee Jia Hong (zacque)
 #+EMAIL:  technical+orgmode@zacque.tk
 #+DATE:   [2021-12-02 Thu]
-#+LAST_EDIT:  [2021-12-02 Thu 10:20:09 UTC+08]
+#+LAST_EDIT:  [2021-12-02 Thu 14:36:00 UTC+08]
 #+KEYWORDS:   readme
 
 * Introduction
-This is a repo for my advent-of-code solutions.
+Advent of code solutions in Standard ML.
 
 * License
 BSD-3-Clause.
