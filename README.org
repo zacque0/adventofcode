@@ -1,0 +1,14 @@
+#+TITLE:  README
+#+AUTHOR: Lee Jia Hong (zacque)
+#+EMAIL:  technical+orgmode@zacque.tk
+#+DATE:   [2021-12-02 Thu]
+#+LAST_EDIT:  [2021-12-02 Thu 10:20:09 UTC+08]
+#+KEYWORDS:   readme
+
+* Introduction
+This is a repo for my advent-of-code solutions.
+
+* License
+BSD-3-Clause.
+
+This license applies to all files in this repository, including the source code, the examples, and tests, as well as the documentation.
