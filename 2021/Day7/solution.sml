@@ -10,7 +10,7 @@ Read:
 (*
 Solution idea:
 1. Brute force (iterate through all points, compute the sumManDis, then select the minimum sum.)
-2. Approximate + iteration approach. (I don't know how.)
+2. Weiszfeld's algorithm (approximate + iterate approach)
 *)
 fun meanPos posls =
     let val sum = List.foldl op+ 0 posls
