@@ -18,7 +18,7 @@ fun meanPos posls =
     in sum div count
     end
 
-(* Sumof manhattan distances. *)
+(* Sum of manhattan distances. *)
 fun sumManDis posls mdpt =
     let val diff = List.map (fn x => abs (x-mdpt)) posls
     in List.foldl op+ 0 diff
